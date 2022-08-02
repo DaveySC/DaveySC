@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 <img src="{[BadgeURLHere](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)}" />
 
+https://github-readme-stats.vercel.app/api?username={DaveySC}
