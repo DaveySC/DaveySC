@@ -17,4 +17,8 @@ I have  knowledge in backend development on Java. In general worked with monolit
 *   Java/C++ languages
 *   MySQL, PostgreSQL, Liquibase
 *   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   GitHub/GitLab/Gerrit/Bitbucket
+
+## 🎓 Education
+* Saratov State University
+* Netcracker Training Center
+
