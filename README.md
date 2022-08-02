@@ -22,4 +22,4 @@ I have  knowledge in backend development on Java. In general worked with monolit
 * Saratov State University
 * Netcracker Training Center
 
-https://t.me/share/url?url={leshkaKartofel}&text={My telegram}
+https://t.me/share/url?url=leshkaKartofel&text=telegram
