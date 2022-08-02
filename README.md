@@ -13,3 +13,8 @@ I have  knowledge in backend development on Java. In general worked with monolit
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveySC&layout=compact"/></a>
 </p>
 
+## 🛠 Technical Stack
+*   Java/C++ languages
+*   MySQL, PostgreSQL, Liquibase
+*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
+*   GitHub/GitLab/Gerrit/Bitbucket
