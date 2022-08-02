@@ -22,3 +22,10 @@ I have  knowledge in backend development on Java. In general worked with monolit
 * Saratov State University
 * Netcracker Training Center
 
+<ul class="social-icons">
+  <li><a class="social-icon-twitter" href="#" title="..." target="_blank" rel="noopener"></a></li>
+  <li><a class="social-icon-fb" href="#" title="..." target="_blank" rel="noopener"></a></li>
+  <li><a class="social-icon-vk" href="#" title="..." target="_blank" rel="noopener"></a></li>
+  <li><a class="social-icon-telegram" href="#" title="..." target="_blank" rel="noopener"></a></li>
+  <li><a class="social-icon-youtube" href="#" title="..." target="_blank" rel="noopener"></a></li>
+</ul>
