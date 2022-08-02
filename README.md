@@ -27,5 +27,5 @@ I have  knowledge in backend development on Java. In general worked with monolit
 * Netcracker Training Center
 
 ## 💬 Social
-https://t.me/share/url?url=leshkaKartofel&text=telegram
-[https://vk.com/id222571133](https://vk.com/leshkakartofel)
+* https://t.me/share/url?url=leshkaKartofel&text=telegram<br>
+* https://vk.com/leshkakartofel
