@@ -26,4 +26,6 @@ I have  knowledge in backend development on Java. In general worked with monolit
 * Saratov State University
 * Netcracker Training Center
 
+## 💬 Social
 https://t.me/share/url?url=leshkaKartofel&text=telegram
+[https://vk.com/id222571133](https://vk.com/leshkakartofel)
